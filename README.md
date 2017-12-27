@@ -1,2 +1,0 @@
-# RepositoryA
-Training project
